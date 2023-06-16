@@ -6,3 +6,5 @@
 * Settings for RX6700/AMD Ryzen 9 5900X on Arch.
 # alex.cfg
 * CS 1.6 config
+# csgo-launch-options.md
+* Sample CS:GO launch options

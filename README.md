@@ -8,3 +8,5 @@
 * CS 1.6 config
 # csgo-launch-options.md
 * Sample CS:GO launch options
+# Mafia-II-Fix.md
+* Provides fix for the slow motion bug in Mafia II.

@@ -10,3 +10,5 @@
 * Sample CS:GO launch options
 # Mafia-II-Fix.md
 * Provides fix for the slow motion bug in Mafia II.
+# How-To-Patch-PS3-ISOs.md
+* Provides tutorial on how to patch PS3 isos.

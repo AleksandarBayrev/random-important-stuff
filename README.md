@@ -14,3 +14,5 @@
 * Provides tutorial on how to patch PS3 isos.
 # Serious-Sam-TFE-TSE-Classics-Linux-Fix.md
 * Provides fix for the GPU artifacts.
+# Windows-AMD-ULPS.md
+* Fix for sleep bug for monitors.

@@ -16,3 +16,5 @@
 * Provides fix for the GPU artifacts.
 # Windows-AMD-ULPS.md
 * Fix for sleep bug for monitors.
+# b550-settings.CMO
+* BIOS settings (CPU mainly) for my ASUS PRIME B550 PLUS.

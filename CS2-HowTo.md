@@ -1,5 +1,5 @@
 # Open `Best CS2 Launch Options 2023 Guide, Setting List for FPS.html` to see some optimizations for CS 2 if needed.
 
-# Use these launch options for Linux - `vblank_mode=0 gamescope -w 1024 -h 768 -W 1920 -H 1080 -S stretch -f --force-grab-cursor -- gamemoderun %command% -novid -nojoy -high -fullscreen`
+# Use these launch options for Linux - `gamescope -w 800 -h 600 -W 1920 -H 1080 -f -- %command% -novid -nojoy -high`
 
 ## Note - install `gamescope` if missing

@@ -18,3 +18,5 @@
 * Fix for sleep bug for monitors.
 # b550-settings.CMO
 * BIOS settings (CPU mainly) for my ASUS PRIME B550 PLUS.
+# Windows-98-3D-Acceleration.md
+* Describes how to run 3D games in VMs in Windows 98.

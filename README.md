@@ -22,3 +22,5 @@
 * Describes how to run 3D games in VMs in Windows 98.
 # Diablo-II-Modern-Systems.md
 * Describes how to run Diablo II on modern Windows versions.
+# Windows-Power-Plan-Fixes.md
+* Describes how to force disable turbo boost on Windows. Load `High performance-Backup-2023.03.12-19.51.12.pow` to the program and activate the profile.

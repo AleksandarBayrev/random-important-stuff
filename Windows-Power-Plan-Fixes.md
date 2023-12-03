@@ -1,0 +1,1 @@
+# Install [Quick CPU](https://coderbag.com/product/quickcpu) to disable turbo boost - 

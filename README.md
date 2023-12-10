@@ -24,3 +24,5 @@
 * Describes how to run Diablo II on modern Windows versions.
 # Windows-Power-Plan-Fixes.md
 * Describes how to force disable turbo boost on Windows. Load `High performance-Backup-2023.03.12-19.51.12.pow` to the program and activate the profile.
+# Windows-Setup.md
+* Describes basic Windows setup.

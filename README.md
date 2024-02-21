@@ -30,3 +30,5 @@
 * Describes how to fix websites bug with slow loading.
 # gta-saves
 * Save games from me for all missions for GTA games.
+# RPCS3-Settings.md
+* Describes how to setup RPCS3.

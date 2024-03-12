@@ -32,3 +32,5 @@
 * Save games from me for all missions for GTA games.
 # RPCS3-Settings.md
 * Describes how to setup RPCS3.
+# MSI-Afterburner.md
+* Describes how to setup MSI Afterburner.

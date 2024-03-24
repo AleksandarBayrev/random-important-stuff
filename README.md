@@ -34,3 +34,5 @@
 * Describes how to setup RPCS3.
 # MSI-Afterburner.md
 * Describes how to setup MSI Afterburner.
+# Xentry-Diagnostics-KVM.md
+* Describes how to setup Xentry in KVM.

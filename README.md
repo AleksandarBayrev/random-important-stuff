@@ -36,3 +36,5 @@
 * Describes how to setup MSI Afterburner.
 # Xentry-Diagnostics-KVM.md
 * Describes how to setup Xentry in KVM.
+# Unreal-Gold-HowTo.md
+* Describes how to patch Unreal Gold.

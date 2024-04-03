@@ -38,3 +38,5 @@
 * Describes how to setup Xentry in KVM.
 # Unreal-Gold-HowTo.md
 * Describes how to patch Unreal Gold.
+# Example-GitConfig.md
+* Example `.gitconfig` file.

@@ -40,3 +40,5 @@
 * Describes how to patch Unreal Gold.
 # Example-GitConfig.md
 * Example `.gitconfig` file.
+# Minecraft-HowTO.md
+* Describes how to setup Minecraft.

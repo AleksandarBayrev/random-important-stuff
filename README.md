@@ -16,8 +16,8 @@
 * Provides fix for the GPU artifacts.
 # Windows-AMD-ULPS.md
 * Fix for sleep bug for monitors.
-# b550-settings.CMO
-* BIOS settings (CPU mainly) for my ASUS PRIME B550 PLUS.
+# prime-b550-plus-auto.CMO
+* BIOS settings (CPU mainly) for my ASUS PRIME B550 PLUS + enabled ReBAR.
 # Windows-98-3D-Acceleration.md
 * Describes how to run 3D games in VMs in Windows 98.
 # Diablo-II-Modern-Systems.md

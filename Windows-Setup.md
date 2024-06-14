@@ -8,7 +8,7 @@
 * Install MSI Afterburner for fan control (if possible (eg. on laptops it won't be))
 * Install Hyper-V
 * Install Microsoft PowerToys to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
-* Install CCleaner, GIMP, Inkscape, Handbrake, Discord, Steam, Kdenlive, Avidemux, Crystal Disk Info, HWINFO, LibreOffice, OBS Studio, VMware, Postman, Visual Studio Code, Postman, qBittorrent, VLC, FileZilla, OBS Studio, MediaInfo, Audacity, FFmpeg Full, Vencord, Ventoy, VMware Workstation
+* Install CCleaner, GIMP, Inkscape, Handbrake, Discord, Steam, Kdenlive, Avidemux, Crystal Disk Info, HWINFO, HWMonitor LibreOffice, OBS Studio, VMware, Postman, Visual Studio Code, Postman, qBittorrent, VLC, FileZilla, OBS Studio, MediaInfo, Audacity, FFmpeg Full, Vencord, Ventoy, VMware Workstation
 * Install Steam, GOG Galaxy, ATLauncher
 * Install .NET SDKs and NVM for Windows
 * Install emulators - Duckstation, PCSX2, PPSSPP

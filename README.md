@@ -44,3 +44,5 @@
 * Describes how to setup Minecraft.
 # caprine-workaround-pin.png
 * Describes how to fix missing pin input for Caprine messenger.
+# DeusEx-HowTO.md
+* Describes how to set up `Deus Ex`.

@@ -1,5 +1,5 @@
 # Install `Deus Ex` from your GOG.com account
-# Install [GMDX Mod](https://www.moddb.com/mods/gmdx-v10-community-update)
+# Install [GMDX Mod](https://www.moddb.com/mods/gmdx-v10-community-update) (or check in Google Drive for the setup file from 01.04.2022)
 # Set up GOG.com launcher
 
 <img src="./gog-deus-ex.png" />

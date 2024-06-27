@@ -3,6 +3,6 @@
 # Set up GOG.com launcher
 
 <img src="./gog-deus-ex.png" />
-<img src="./gog-deus-ex.png" />
+<img src="./gog-deus-ex-2.png" />
 
 # Have fun

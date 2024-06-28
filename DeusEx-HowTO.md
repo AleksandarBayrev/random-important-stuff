@@ -5,4 +5,6 @@
 <img src="./gog-deus-ex.png" />
 <img src="./gog-deus-ex-2.png" />
 
+# To show FPS press T and when the `> Say` input appears down - delete `Say` and type `Stat FPS` and press enter.
+
 # Have fun

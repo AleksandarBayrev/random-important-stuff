@@ -7,4 +7,6 @@
 
 # To show FPS press T and when the `> Say` input appears down - delete `Say` and type `Stat FPS` and press enter.
 
+# If you have low FPS - use the `Direct3D 10 (DirectX 10) renderer`
+
 # Have fun

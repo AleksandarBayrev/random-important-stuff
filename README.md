@@ -46,3 +46,5 @@
 * Describes how to fix missing pin input for Caprine messenger.
 # DeusEx-HowTO.md
 * Describes how to set up `Deus Ex`.
+# GOG-Games-Notes.md
+* Notes for GOG games.

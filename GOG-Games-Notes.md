@@ -3,3 +3,6 @@
 
 # Titan Quest Anniversary
 * Select `DirectX 9` executable as default from `Manage Installation` -> `Configure` -> `Features` -> `Custom Executables`
+
+# SWAT 4
+* To add resolutions open `\Content\System\Swat4GUIState.ini` and add a line with your desired resolution, example: `ScreenResolutionChoices=1920x1080`

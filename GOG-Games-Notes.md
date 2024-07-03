@@ -6,3 +6,6 @@
 
 # SWAT 4
 * To add resolutions open `\Content\System\Swat4GUIState.ini` and add a line with your desired resolution, example: `ScreenResolutionChoices=1920x1080`
+
+# TES III: Morrowind
+* Install `OpenMW` and add `OpenMW Launcher` executable as default from `Manage Installation` -> `Configure` -> `Features` -> `Custom Executables`

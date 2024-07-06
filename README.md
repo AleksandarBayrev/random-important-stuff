@@ -48,3 +48,5 @@
 * Describes how to set up `Deus Ex`.
 # GOG-Games-Notes.md
 * Notes for GOG games.
+# Caprine-PIN-Fix.md
+* Fix for PIN popup not showing up.

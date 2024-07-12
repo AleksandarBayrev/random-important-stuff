@@ -50,3 +50,5 @@
 * Notes for GOG games.
 # Caprine-PIN-Fix.md
 * Fix for PIN popup not showing up.
+# PlayOnLinux-Games-HowTO.md
+* Notes for old games - how to install them using PlayOnLinux.

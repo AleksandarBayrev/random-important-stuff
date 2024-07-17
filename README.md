@@ -52,3 +52,5 @@
 * Fix for PIN popup not showing up.
 # PlayOnLinux-Games-HowTO.md
 * Notes for old games - how to install them using PlayOnLinux.
+# BattleNET-Linux-HowTO.md
+* Describes how to set up `Battle.NET` on Linux.

@@ -14,4 +14,6 @@
 
 # Use `Borderless Fullscreen` mode to be able to minimize from the game without freezing
 
+# If you experience stutters or freezes when opening menus use regular `Fullscreen`
+
 # Have fun

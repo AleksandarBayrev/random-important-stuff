@@ -12,4 +12,6 @@
 
 # If you have low FPS - use the `Direct3D 10 (DirectX 10) renderer` or `OpenGL renderer`
 
+# Use `Borderless Fullscreen` mode to be able to minimize from the game without freezing
+
 # Have fun

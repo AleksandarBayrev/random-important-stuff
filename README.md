@@ -54,3 +54,5 @@
 * Notes for old games - how to install them using PlayOnLinux.
 # BattleNET-Linux-HowTO.md
 * Describes how to set up `Battle.NET` on Linux.
+# Star-Wars-Battlefront-2-EA-App-Fixes.md
+* Fixes for Star Wars and EA app.

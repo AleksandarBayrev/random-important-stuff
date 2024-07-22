@@ -9,3 +9,6 @@
 
 # TES III: Morrowind
 * Install `OpenMW` and add `OpenMW Launcher` executable as default from `Manage Installation` -> `Configure` -> `Features` -> `Custom Executables`
+
+# Deus Ex: Human Revolution
+* Disable V-Sync and enable Triple Buffering from settings to stop stutter. Limit FPS to 60.

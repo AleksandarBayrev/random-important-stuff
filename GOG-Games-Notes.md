@@ -12,3 +12,6 @@
 
 # Deus Ex: Human Revolution
 * Disable V-Sync and enable Triple Buffering from settings to stop stutter. Limit FPS to 60.
+
+# Sleeping Dogs: Definitive Edition
+* Use `WineCFG` to enable virtual desktop, disable fullscreen from game settings, and disable virtual desktop from `WineCFG`. The game is broken on fullscreen.

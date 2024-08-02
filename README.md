@@ -58,3 +58,5 @@
 * Fixes for Star Wars and EA app.
 # VirtualBox-Tips.md
 * Tips for VirtualBox
+# F1-Challenge-HowTO.md
+* Describes how to install `F1 Challenge 99-02` on Linux.

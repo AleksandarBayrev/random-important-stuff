@@ -1,7 +1,7 @@
 # Windows Setup
 * Install Enterprise LTSC version of whatever Windows you want.
 * Disable Game Bar
-* Activate Windows (KMS Tools)
+* Activate Windows (KMS Tools, [Massgravel MAS](https://github.com/massgravel/Microsoft-Activation-Scripts))
 * Install Chocolatey and Chocolatey GUI
 * Install Geek Uninstaller
 * Install SSD Tools (ADATA/Samsung)

@@ -1,6 +1,12 @@
 # Windows Setup
 * Install Enterprise LTSC version of whatever Windows you want.
 * Disable Game Bar
+* Let the system fully update, then run [Display Driver Uninstaller](https://www.guru3d.com/download/display-driver-uninstaller-download/) to remove the installed GPU drivers from Windows Update
+
+<img src="./ddu-option.png">
+
+Select the `Prevent downloads of drivers from "Windows update" when "Windows" searches for a driver`
+
 * Activate Windows (KMS Tools, [Massgravel MAS](https://github.com/massgravel/Microsoft-Activation-Scripts))
 * Install Chocolatey and Chocolatey GUI
 * Install Geek Uninstaller

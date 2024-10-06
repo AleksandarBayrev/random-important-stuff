@@ -23,3 +23,4 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install audio drivers from laptop/motherboard manufacturer for built-in audio devices.
 * Disable `Sticky Keys`, `Toggle Keys`, `Filter Keys`
 * Disable `Animation effects` and `Transparency effects`
+* Disable `Game Overlay` in `Discord`

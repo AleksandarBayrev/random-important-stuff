@@ -18,7 +18,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`
 * Install `.NET SDKs` and `NVM for Windows`
 * Install emulators - `Duckstation`, `PCSX2`, `PPSSPP`
-* Check `windows-11-fix-for-amd-rv-intel-virt.pdf` to fix VMWare errors with VMs that have enabled virtualization. (Mainly `Disable Turn On Virtualization Based Security.` and `bcdedit /set hypervisorlaunchtype off`)
+* Check `windows-11-fix-for-amd-rv-intel-virt.pdf` to fix VMWare errors with VMs that have enabled virtualization. (Mainly `Disable Turn On Virtualization Based Security.` and `bcdedit /set hypervisorlaunchtype off` OR `Disable side channel mitigations for Hyper-V enabled hosts` per VM under `Virtual Machine Settings` -> `Options` -> `Advanced`)
 * Use `wushowhide` to hide `KB5034441` if it fails (for Windows 10).
 * Install audio drivers from laptop/motherboard manufacturer for built-in audio devices.
 * Disable `Sticky Keys`, `Toggle Keys`, `Filter Keys`

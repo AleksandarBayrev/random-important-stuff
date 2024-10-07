@@ -24,3 +24,4 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Disable `Sticky Keys`, `Toggle Keys`, `Filter Keys`
 * Disable `Animation effects` and `Transparency effects`
 * Disable `Game Overlay` in `Discord`
+* Install `KDE Connect` to sync your phone with your PC

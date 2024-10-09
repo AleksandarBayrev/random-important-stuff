@@ -27,3 +27,6 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Disable `Game Overlay` in `Discord`
 * Install `KDE Connect` to sync your phone with your PC
 * Install `Viber`, `Telegram`
+## To permanently disable `ms-gamingoverlay` popup in LTSC Windows 11:
+### Find HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR and set `AppCaptureEnabled` to `0`
+### Find HKEY_CURRENT_USER\System\GameConfigStore and set `GameDVR_Enabled` to `0`

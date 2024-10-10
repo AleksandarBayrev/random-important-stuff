@@ -7,6 +7,7 @@
 
 Select the `Prevent downloads of drivers from "Windows update" when "Windows" searches for a driver`
 
+* Disable `Fast Startup`
 * Activate Windows (`KMS Tools`, [Massgravel MAS](https://github.com/massgravel/Microsoft-Activation-Scripts))
 * Install `Chocolatey` and `Chocolatey GUI`
 * Install `Geek Uninstaller`

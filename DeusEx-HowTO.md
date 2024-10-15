@@ -12,6 +12,8 @@
 
 # If you have low FPS - use the `Direct3D 10 (DirectX 10) renderer` or `OpenGL renderer`
 
+# To open additional settings for graphics type `preferences` in chat, should say `> preferences`, not `> Say preferences`
+
 # Use `Borderless Fullscreen` mode to be able to minimize from the game without freezing
 
 # If you experience stutters or freezes when opening menus use regular `Fullscreen`

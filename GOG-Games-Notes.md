@@ -16,5 +16,8 @@
 # Sleeping Dogs: Definitive Edition
 * Use `WineCFG` to enable virtual desktop, disable fullscreen from game settings, and disable virtual desktop from `WineCFG`. The game is broken on fullscreen.
 
+# Arx Fatalis
+* Use `Arx Liberatis` to run it on modern systems, [link](https://github.com/AleksandarBayrev/ArxLibertatis).
+
 ## corectrl-profile.ccpro
 * Example `CoreCtrl` profile for fans.

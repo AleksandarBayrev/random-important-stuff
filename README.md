@@ -60,3 +60,5 @@
 * Tips for VirtualBox
 # F1-Challenge-HowTO.md
 * Describes how to install `F1 Challenge 99-02` on Linux.
+# Steam-Games-Notes.md
+* Notes for Steam games.

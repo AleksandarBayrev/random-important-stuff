@@ -62,3 +62,5 @@
 * Describes how to install `F1 Challenge 99-02` on Linux.
 # Steam-Games-Notes.md
 * Notes for Steam games.
+# MEGA.NZ-Tutorial.md
+* Added tutorial for mega.nz.

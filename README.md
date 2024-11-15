@@ -64,3 +64,5 @@
 * Notes for Steam games.
 # MEGA.NZ-Tutorial.md
 * Added tutorial for mega.nz.
+# Development-Tools.md
+* Added notes for development tools.

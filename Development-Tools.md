@@ -9,7 +9,8 @@
 
 # Gradle
 * Use [https://sdkman.io/](https://sdkman.io/) and follow instructions.
+* To create a new empty `Gradle` project use the following command: `gradle init` and follow instructions.
 
 # Spring Boot
 * Use [https://sdkman.io/](https://sdkman.io/) and follow instructions.
-* To create a new project use the following command: `spring init -d web -a com.myapp ./com.myapp.zip` where -a specifies the project name (`com.mywebsite` for example)
+* To create a new project use the following command: `spring init -d web -j YOUR_JAVA_VERSION -a com.myapp ./com.myapp.zip` where -a specifies the project name (`com.mywebsite` for example)

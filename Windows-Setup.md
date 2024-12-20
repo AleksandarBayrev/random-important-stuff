@@ -25,6 +25,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Use `wushowhide` to hide `KB5034441` if it fails (for Windows 10).
 * Install audio drivers from laptop/motherboard manufacturer for built-in audio devices.
 * Disable `Sticky Keys`, `Toggle Keys`, `Filter Keys`
+* Disable `USB Selective Suspending` in `Power Plan options`
 * Disable `Animation effects` and `Transparency effects`
 * Disable `Game Overlay` in `Discord`
 * Install `KDE Connect` to sync your phone with your PC

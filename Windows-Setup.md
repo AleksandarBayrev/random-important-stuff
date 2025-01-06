@@ -32,5 +32,5 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Viber`, `Telegram`
 * Install `Virtual CloneDrive`
 ## To permanently disable `ms-gamingoverlay` popup in LTSC Windows 11:
-### Find HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR and set `AppCaptureEnabled` to `0`
-### Find HKEY_CURRENT_USER\System\GameConfigStore and set `GameDVR_Enabled` to `0`
+### Find HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR and set the DWORD `AppCaptureEnabled` to `0`
+### Find HKEY_CURRENT_USER\System\GameConfigStore and set the DWORD `GameDVR_Enabled` to `0`

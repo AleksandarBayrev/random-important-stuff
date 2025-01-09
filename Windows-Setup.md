@@ -18,7 +18,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Hyper-V` (or `VMWare`)
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
 * Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `LibreOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `FileZilla`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`, `Caprine`
-* Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`
+* Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Epic Games Launcher`
 * Install `.NET SDKs`, `Java SDKs`, `Gradle` and `NVM for Windows`
 * Install emulators - `Duckstation`, `PCSX2`, `PPSSPP`
 * Check `windows-11-fix-for-amd-rv-intel-virt.pdf` to fix VMWare errors with VMs that have enabled virtualization. (Mainly `Disable Turn On Virtualization Based Security.` and `bcdedit /set hypervisorlaunchtype off` OR `Disable side channel mitigations for Hyper-V enabled hosts` per VM under `Virtual Machine Settings` -> `Options` -> `Advanced`)

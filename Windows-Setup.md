@@ -14,10 +14,10 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `SSD Tools (ADATA/Samsung)`
 * Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
 * Install `Firefox` for browser.
-* Install `Legacy Components`, `Virtual Machine Platform`, `Windows Hypervisor Platform` from `Turn Windows features on or off`
+* Install `Legacy Components`, `Virtual Machine Platform` (if not using `VMWare`), `Windows Hypervisor Platform` from `Turn Windows features on or off`
 * Install `Hyper-V` (or `VMWare`)
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
-* Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `LibreOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `FileZilla`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`
+* Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `OnlyOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `FileZilla`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`
 * Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Epic Games Launcher`
 * Install `.NET SDKs`, `Java SDKs`, `Gradle` and `NVM for Windows`
 * Install emulators - `Duckstation`, `PCSX2`, `PPSSPP`

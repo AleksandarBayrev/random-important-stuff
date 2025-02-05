@@ -66,3 +66,5 @@
 * Added tutorial for mega.nz.
 # Development-Tools.md
 * Added notes for development tools.
+# Windows-Games-Notes.md
+* Notes for some games that require workarounds.

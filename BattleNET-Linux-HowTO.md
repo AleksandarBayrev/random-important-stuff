@@ -22,4 +22,6 @@
 
 * Select Windows 11 as a Windows version.
 
+* If you don't experience any problems - don't disable `browser hardware acceleration` in Battle.NET
+
 <img src="./battlenet-5.png" />

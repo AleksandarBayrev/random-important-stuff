@@ -20,4 +20,6 @@
 
 * It is recommended to use `caffe-9.7` as a Wine version in Bottles, Diablo 2 and 3, and WC3 work perfectly with it.
 
+* Select Windows 11 as a Windows version.
+
 <img src="./battlenet-5.png" />

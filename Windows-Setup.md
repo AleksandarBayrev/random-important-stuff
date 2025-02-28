@@ -1,5 +1,6 @@
 # Windows Setup
 * Install `Enterprise LTSC`/`Enterprise IoT LTSC` version of whatever Windows you want.
+* If using `Windows 11` install [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) and import the settings from `explorer-patcher` folder
 * Disable `Game Bar`
 * Let the system fully update, then run [Display Driver Uninstaller](https://www.guru3d.com/download/display-driver-uninstaller-download/) to remove the installed GPU drivers from Windows Update
 

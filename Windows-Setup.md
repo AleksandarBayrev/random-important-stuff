@@ -13,7 +13,8 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 
 * Disable `Fast Startup`
 * Activate Windows (`KMS Tools`, [Massgravel MAS](https://github.com/massgravel/Microsoft-Activation-Scripts))
-* Install `Chocolatey` and `Chocolatey GUI`
+* Install `btop4win`
+* Install `Chocolatey` and `Chocolatey GUI` (optional, if  you want to manage software updates manually per app)
 * Install `Geek Uninstaller`
 * Install `SSD Tools (ADATA/Samsung)`
 * Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS

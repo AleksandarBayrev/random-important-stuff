@@ -1,6 +1,7 @@
 # Windows Setup
 * Install `Enterprise LTSC`/`Enterprise IoT LTSC` version of whatever Windows you want.
 * If using `Windows 11` install [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) and import the settings from `explorer-patcher` folder
+* Enable `File name extension` for all files
 * Disable `Game Bar`
 * Disable `Core Isolation`
 * Disable `USB Selective suspending`

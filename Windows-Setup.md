@@ -3,7 +3,7 @@
 * If using `Windows 11` install [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) and import the settings from `explorer-patcher` folder
 * Enable `File name extension` for all files
 * Disable `Game Bar`
-* Disable `Core Isolation`
+* Disable `Memory Integrity` from `Core Isolation`
 * Disable `USB Selective suspending`
 * Let the system fully update, then run [Display Driver Uninstaller](https://www.guru3d.com/download/display-driver-uninstaller-download/) to remove the installed GPU drivers from Windows Update
 

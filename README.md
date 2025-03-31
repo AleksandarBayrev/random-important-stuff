@@ -18,6 +18,8 @@
 * Fix for sleep bug for monitors.
 # prime-b550-plus-auto.CMO
 * BIOS settings (CPU mainly) for my ASUS PRIME B550 PLUS + enabled ReBAR.
+# prime-b550-plus-4.4.CMO
+* BIOS settings (CPU mainly to 4.4GHz) for my ASUS PRIME B550 PLUS + enabled ReBAR.
 # Windows-98-3D-Acceleration.md
 * Describes how to run 3D games in VMs in Windows 98.
 # Diablo-II-Modern-Systems.md

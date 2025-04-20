@@ -1,0 +1,72 @@
+# PSX BIOS Collection
+* Unzip `PSX.zip` and use it for your PSX/PSX Emulator.
+# PS2 BIOS Collection
+* Unzip `PS2.zip` and use it for your PS2/PS2 Emulator.
+# corectrl-settings
+* Settings for RX6700/AMD Ryzen 9 5900X with some app-specific settings.
+# alex.cfg
+* CS 1.6 config
+# csgo-launch-options.md
+* Sample CS:GO launch options
+# Mafia-II-Fix.md
+* Provides fix for the slow motion bug in Mafia II.
+# How-To-Patch-PS3-ISOs.md
+* Provides tutorial on how to patch PS3 isos.
+# Serious-Sam-TFE-TSE-Classics-Linux-Fix.md
+* Provides fix for the GPU artifacts.
+# Windows-AMD-ULPS.md
+* Fix for sleep bug for monitors.
+# prime-b550-plus-auto.CMO
+* BIOS settings (CPU mainly) for my ASUS PRIME B550 PLUS + enabled ReBAR.
+# prime-b550-plus-4.4.CMO
+* BIOS settings (CPU mainly to 4.4GHz) for my ASUS PRIME B550 PLUS + enabled ReBAR.
+# Windows-98-3D-Acceleration.md
+* Describes how to run 3D games in VMs in Windows 98.
+# Diablo-II-Modern-Systems.md
+* Describes how to run Diablo II on modern Windows versions.
+# Windows-Power-Plan-Fixes.md
+* Describes how to force disable turbo boost on Windows. Load `High performance-Backup-2023.03.12-19.51.12.pow` to the program and activate the profile.
+# Windows-Setup.md
+* Describes basic Windows setup.
+# Firefox-Slow-Website-Loading.md
+* Describes how to fix websites bug with slow loading.
+# gta-saves
+* Save games from me for all missions for GTA games.
+# RPCS3-Settings.md
+* Describes how to setup RPCS3.
+# MSI-Afterburner.md
+* Describes how to setup MSI Afterburner.
+# Xentry-Diagnostics-KVM.md
+* Describes how to setup Xentry in KVM.
+# Unreal-Gold-HowTo.md
+* Describes how to patch Unreal Gold.
+# Example-GitConfig.md
+* Example `.gitconfig` file.
+# Minecraft-HowTO.md
+* Describes how to setup Minecraft.
+# caprine-workaround-pin.png
+* Describes how to fix missing pin input for Caprine messenger.
+# DeusEx-HowTO.md
+* Describes how to set up `Deus Ex`.
+# GOG-Games-Notes.md
+* Notes for GOG games.
+# Caprine-PIN-Fix.md
+* Fix for PIN popup not showing up.
+# PlayOnLinux-Games-HowTO.md
+* Notes for old games - how to install them using PlayOnLinux.
+# BattleNET-Linux-HowTO.md
+* Describes how to set up `Battle.NET` on Linux.
+# Star-Wars-Battlefront-2-EA-App-Fixes.md
+* Fixes for Star Wars and EA app.
+# VirtualBox-Tips.md
+* Tips for VirtualBox
+# F1-Challenge-HowTO.md
+* Describes how to install `F1 Challenge 99-02` on Linux.
+# Steam-Games-Notes.md
+* Notes for Steam games.
+# MEGA.NZ-Tutorial.md
+* Added tutorial for mega.nz.
+# Development-Tools.md
+* Added notes for development tools.
+# Windows-Games-Notes.md
+* Notes for some games that require workarounds.

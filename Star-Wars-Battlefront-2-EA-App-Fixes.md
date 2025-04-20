@@ -1,0 +1,1 @@
+# To disable the EA app overlay - open `EALauncher.exe` from here: `C:\Program Files\Electronic Arts\EA Desktop\EA Desktop` and open `Settings->Application->In-game overlay`

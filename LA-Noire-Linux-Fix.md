@@ -1,0 +1,1 @@
+# Install the game and use [https://github.com/VaanaCZ/LANVP](https://github.com/VaanaCZ/LANVP)

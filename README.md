@@ -74,3 +74,5 @@
 * Added small fixes for the stuttering
 # Bully-Scholarship-Linux-Fix.md
 * Added howto for Bully
+# LA-Noire-Linux-Fix.md
+* Added howto for LA Noire

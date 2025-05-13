@@ -72,3 +72,5 @@
 * Notes for some games that require workarounds.
 # oblivion-remastered-fix
 * Added small fixes for the stuttering
+# Bully-Scholarship-Linux-Fix.md
+* Added howto for Bully

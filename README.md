@@ -76,5 +76,5 @@
 * Added howto for Bully
 # LA-Noire-Linux-Fix.md
 * Added howto for LA Noire
-# OBS-Teleport-Plugin-HowTO.md
-* Added howto for Teleport plugin for OBS.
+# OBS-DistroAV-Plugin-HowTO.md
+* Added howto for DistroAV plugin for OBS.

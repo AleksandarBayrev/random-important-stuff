@@ -80,3 +80,5 @@
 * Added howto for DistroAV plugin for OBS.
 # PES-3-4-5-Linux-Fixes.md
 * Linux fixes for old PES games.
+# Lutris-Create-Empty-Prefix.md
+* Describes how to create an empty prefix.

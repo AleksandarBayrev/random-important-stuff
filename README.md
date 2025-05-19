@@ -78,3 +78,5 @@
 * Added howto for LA Noire
 # OBS-DistroAV-Plugin-HowTO.md
 * Added howto for DistroAV plugin for OBS.
+# PES-3-4-5-Linux-Fixes.md
+* Linux fixes for old PES games.

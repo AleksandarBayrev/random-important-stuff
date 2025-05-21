@@ -82,3 +82,5 @@
 * Linux fixes for old PES games.
 # Lutris-Create-Empty-Prefix.md
 * Describes how to create an empty prefix.
+# FIFA-07-Fix-Install.md
+* Added fix for DirectX error.

@@ -211,6 +211,31 @@
       }
     },
     {
+      "Id": "Google.Chrome",
+      "Name": "Google Chrome",
+      "Version": "137.0.7151.104",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [
+          ""
+        ],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Guru3D.Afterburner",
       "Name": "MSI Afterburner 4.6.5",
       "Version": "4.6.5",

@@ -23,11 +23,11 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
 * Install `Firefox` for browser.
 * Install `.NET Framework 3.5`, `Legacy Components`, `Media Features`, `Virtual Machine Platform` (if not using `VMWare`), `Windows Hypervisor Platform` from `Turn Windows features on or off`
-* Install `Hyper-V` (or `VMWare`)
+* Install `Hyper-V` (or `VMWare`) (if Virtual Machines are needed)
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
 * Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `OnlyOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `WinSCP`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`, `Image Glass`
 * Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Epic Games Launcher`
-* Install WSL, install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine.
+* Install WSL, install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine (use `Ctrl+Shift+P`, type `WSL` and select `Connect to WSL`).
 * Install emulators - `Duckstation`, `PCSX2`, `PPSSPP`
 * Check `windows-11-fix-for-amd-rv-intel-virt.pdf` to fix VMWare errors with VMs that have enabled virtualization. (Mainly `Disable Turn On Virtualization Based Security.` and `bcdedit /set hypervisorlaunchtype off` OR `Disable side channel mitigations for Hyper-V enabled hosts` per VM under `Virtual Machine Settings` -> `Options` -> `Advanced`)
 * Use `wushowhide` to hide `KB5034441` if it fails (for Windows 10).

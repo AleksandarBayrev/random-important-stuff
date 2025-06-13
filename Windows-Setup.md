@@ -4,6 +4,7 @@
 * Enable `File name extension` for all files
 * Disable `Game Bar`
 * Disable `Memory Integrity` from `Core Isolation`
+* Disable all privacy related features, disable Feedback frequency
 * Disable `USB Selective suspending`
 * Let the system fully update, then run [Display Driver Uninstaller](https://www.guru3d.com/download/display-driver-uninstaller-download/) to remove the installed GPU drivers from Windows Update
 

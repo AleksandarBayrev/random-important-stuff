@@ -27,7 +27,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
 * Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `OnlyOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `WinSCP`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`, `Image Glass`
 * Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Epic Games Launcher`
-* Install `.NET SDKs`, `Java SDKs`, `Gradle` and `NVM for Windows` (or even better - use WSL and install latest LTS Ubuntu and install the SDKs there, then use VS Code on the main machine)
+* Install WSL, install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine.
 * Install emulators - `Duckstation`, `PCSX2`, `PPSSPP`
 * Check `windows-11-fix-for-amd-rv-intel-virt.pdf` to fix VMWare errors with VMs that have enabled virtualization. (Mainly `Disable Turn On Virtualization Based Security.` and `bcdedit /set hypervisorlaunchtype off` OR `Disable side channel mitigations for Hyper-V enabled hosts` per VM under `Virtual Machine Settings` -> `Options` -> `Advanced`)
 * Use `wushowhide` to hide `KB5034441` if it fails (for Windows 10).

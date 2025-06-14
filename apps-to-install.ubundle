@@ -71,6 +71,31 @@
       }
     },
     {
+      "Id": "CrystalDewWorld.CrystalDiskInfo",
+      "Name": "CrystalDiskInfo",
+      "Version": "9.6.3",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [
+          ""
+        ],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Discord.Discord",
       "Name": "Discord",
       "Version": "1.0.9194",

@@ -46,6 +46,9 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Disable `Activity History`
 * Disable `Shader Caching` for `Steam`
 * Use `VKD3D Proton` and `DXVK`/`DXVK GPLAsync` for games that behave poorly under Windows (check if `DXVK` first and then use `DXVK GPLAsync` if the previous doesn't work better).
+* For AMD GPU builds - disable `Issue detection` in AMD Software Adrenalin.
+<img src="./amd-adrenalin-issue-detection.png" />
+
 ## To permanently disable `ms-gamingoverlay` popup in LTSC Windows 11:
 ### Find HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR and set the DWORD `AppCaptureEnabled` to `0`
 ### Find HKEY_CURRENT_USER\System\GameConfigStore and set the DWORD `GameDVR_Enabled` to `0`

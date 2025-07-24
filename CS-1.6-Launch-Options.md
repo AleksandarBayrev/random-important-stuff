@@ -1,0 +1,1 @@
+# Use `-stretchaspect` to play in 4:3 mode

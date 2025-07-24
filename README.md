@@ -88,3 +88,5 @@
 * Little guide.
 # Open-Source-Game-Engines.md
 * Open sourced game engines (must use for new PCs).
+# CS-1.6-Launch-Options.md
+* Useful CS 1.6 launch options.

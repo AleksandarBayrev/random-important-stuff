@@ -92,3 +92,5 @@
 * Useful CS 1.6 launch options.
 # WOW-Fixes-Windows.md
 * Useful tips for WOW.
+# Return-To-Castle-Wolfenstein-HowTO.md
+* Proper way to play RTCW.

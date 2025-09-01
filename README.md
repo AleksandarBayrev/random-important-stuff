@@ -94,3 +94,5 @@
 * Useful tips for WOW.
 # Return-To-Castle-Wolfenstein-HowTO.md
 * Proper way to play RTCW.
+# Silent-Hill-2-Camera-Fix-Linux.md
+* Fix for OTS camera for Linux.

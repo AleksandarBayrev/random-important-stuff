@@ -96,3 +96,5 @@
 * Proper way to play RTCW.
 # Silent-Hill-2-Camera-Fix-Linux.md
 * Fix for OTS camera for Linux.
+# LEGO-Games-Linux.md
+* Fixes for LEGO games under Linux.

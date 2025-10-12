@@ -98,3 +98,5 @@
 * Fix for OTS camera for Linux.
 # LEGO-Games-Linux.md
 * Fixes for LEGO games under Linux.
+# Gothic-II-HowTO.md
+* Added notes for Gothic II.

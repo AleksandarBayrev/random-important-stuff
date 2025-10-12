@@ -21,3 +21,6 @@
 
 ## corectrl-profile.ccpro
 * Example `CoreCtrl` profile for fans.
+
+# Gothic II
+* Check `Gothic-II-HowTO.md`

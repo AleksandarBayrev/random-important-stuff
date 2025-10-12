@@ -1,2 +1,2 @@
 # Install Gothic II from GOG
-# Use [OpenGothic](https://github.com/Try/OpenGothic) to launch the game
+# Use [GothicFIx](https://github.com/GothicFixTeam/GothicFix/releases) to launch the game

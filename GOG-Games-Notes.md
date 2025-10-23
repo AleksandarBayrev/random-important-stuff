@@ -14,13 +14,16 @@
 * Disable V-Sync and enable Triple Buffering from settings to stop stutter. Limit FPS to 60.
 
 # Sleeping Dogs: Definitive Edition
-* Use `WineCFG` to enable virtual desktop, disable fullscreen from game settings, and disable virtual desktop from `WineCFG`. The game is broken on fullscreen.
+* Use `WineCFG` to enable virtual desktop, disable fullscreen from game settings, and disable virtual desktop from `WineCFG`. The game is broken on fullscreen (not anymore as of recent Proton GE versions).
 
 # Arx Fatalis
 * Use `Arx Liberatis` to run it on modern systems, [link](https://github.com/AleksandarBayrev/ArxLibertatis).
 
-## corectrl-profile.ccpro
+## corectrl-profile.ccpro (obsolete, LACT is better for GPUs)
 * Example `CoreCtrl` profile for fans.
 
 # Gothic II
 * Check `Gothic-II-HowTO.md`
+
+# Vampire - The Masquerade Bloodlines - Unofficial Patch
+* Run the game with the `-window` launch argument, select resolution, remove the argument and start with the newly selected resolution

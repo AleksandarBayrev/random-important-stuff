@@ -100,3 +100,5 @@
 * Fixes for LEGO games under Linux.
 # Gothic-II-HowTO.md
 * Added notes for Gothic II.
+# Use OpenVPN Connect v3 on Windows in Service Daemon Mode.pdf
+* Describes how to setup auto connect to VPN using OpenVPN (and how to stop it).

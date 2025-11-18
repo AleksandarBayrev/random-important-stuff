@@ -49,6 +49,16 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * For AMD GPU builds - disable `Issue detection` in AMD Software Adrenalin.
 <img src="./amd-adrenalin-issue-detection.png" />
 
+## If monitor sleep is not working - disalbe LAN power management from `Device Manager`
+<img src="./fix-for-monitor-sleep.png" />
+
+* and then 
+* Go to this registry key: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0
+* Double click Attributes
+* Enter the value as 2
+
+* For `QuickCPU`: import quick-cpu-ultimate-performance.pow profile (replace the built-in Windows one with it)
+
 ## To permanently disable `ms-gamingoverlay` popup in LTSC Windows 11:
 ### Find HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR and set the DWORD `AppCaptureEnabled` to `0`
 ### Find HKEY_CURRENT_USER\System\GameConfigStore and set the DWORD `GameDVR_Enabled` to `0`

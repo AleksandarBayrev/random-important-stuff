@@ -23,7 +23,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
 * Install `Firefox` for browser.
 * Install `.NET Framework 3.5`, `Legacy Components`, `Media Features` from `Turn Windows features on or off`
-* Install `VMWare` and `Windows Hypervisor Platform` and disable `Memory Integrity/Core Isolation` OR
+* Install `VMWare` and `Virtual Machine Platform` and disable `Memory Integrity/Core Isolation` OR
 * Install `Hyper-V`, `Windows Hypervisor Platform` and `Virtual Machine Platform`
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
 * Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `OnlyOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `WinSCP`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`, `Image Glass`

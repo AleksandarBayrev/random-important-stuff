@@ -27,7 +27,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Hyper-V`, `Windows Hypervisor Platform` and `Virtual Machine Platform` and run as administrator in cmd `bcdedit /set hypervisorlaunchtype auto`
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
 * Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `OnlyOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `WinSCP`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`, `Image Glass`
-* Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Epic Games Launcher`
+* Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Heroic Games Launcher` (for `Epic Games`)
 * Install WSL (if you use `Hyper-V`), install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine (use `Ctrl+Shift+P`, type `WSL` and select `Connect to WSL`).
 * For WSL - run `sudo apt install x11-apps -y` on Ubuntu to be able to run GUI apps through it.
 * Install the Java stuff on the WSL, not on the host machine.

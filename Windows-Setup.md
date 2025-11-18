@@ -22,12 +22,13 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `SSD Tools (ADATA/Samsung)`
 * Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
 * Install `Firefox` for browser.
-* Install `.NET Framework 3.5`, `Legacy Components`, `Media Features`, `Virtual Machine Platform` (if not using `VMWare`), `Windows Hypervisor Platform` from `Turn Windows features on or off`
-* Install `Hyper-V` (or `VMWare`) (if Virtual Machines are needed)
+* Install `.NET Framework 3.5`, `Legacy Components`, `Media Features` from `Turn Windows features on or off`
+* Install `VMWare` and `Windows Hypervisor Platform` and disable `Memory Integrity/Core Isolation` OR
+* Install `Hyper-V`, `Windows Hypervisor Platform` and `Virtual Machine Platform`
 * Install `Microsoft PowerToys` to use FancyZones on Windows 10. Check `fancy-zones-setup.png` on how to set up it properly.
 * Install `CCleaner`, `GIMP`, `Inkscape`, `Handbrake`, `Discord`, `Kdenlive`, `Avidemux`, `Crystal Disk Info`, `HWINFO`, `HWMonitor`, `OnlyOffice`, `OBS Studio`, `Postman`, `Visual Studio Code`, `qBittorrent`, `VLC`, `WinSCP`, `MediaInfo`, `Audacity`, `FFmpeg Full`, `Vencord`, `Ventoy`, `Image Glass`
 * Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Epic Games Launcher`
-* Install WSL, install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine (use `Ctrl+Shift+P`, type `WSL` and select `Connect to WSL`).
+* Install WSL (if you use `Hyper-V`), install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine (use `Ctrl+Shift+P`, type `WSL` and select `Connect to WSL`).
 * For WSL - run `sudo apt install x11-apps -y` on Ubuntu to be able to run GUI apps through it.
 * Install the Java stuff on the WSL, not on the host machine.
 <img src="./wsl-plugins-for-java-vs-code-host.png" />

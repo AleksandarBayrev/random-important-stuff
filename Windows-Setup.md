@@ -19,6 +19,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Quick CPU` to disable core parking.
 * Install `Chocolatey` and `Chocolatey GUI` (optional, if  you want to manage software updates manually per app)
 * Install `Geek Uninstaller`
+* Install `Twinkle Tray` to control monitor brightness
 * Install `SSD Tools (ADATA/Samsung)`
 * Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
 * Install `Firefox` for browser.

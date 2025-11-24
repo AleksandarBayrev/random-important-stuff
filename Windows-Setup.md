@@ -32,6 +32,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Steam`, `GOG Galaxy`, `ATLauncher`, `Battle.NET`, `Heroic Games Launcher` (for `Epic Games`)
 * Install WSL (if you use `Hyper-V`), install latest LTS Ubuntu and install the SDKs (NVM, .NET, SDKMan [Java, Gradle]) there, then use VS Code on the main machine (use `Ctrl+Shift+P`, type `WSL` and select `Connect to WSL`).
 * For WSL - run `sudo apt install x11-apps -y` on Ubuntu to be able to run GUI apps through it.
+* If you want to install development tools on the local PC - .NET (use `https://github.com/dotnet/install-scripts/blob/main/src/dotnet-install.ps1`), NVM (use `https://github.com/coreybutler/nvm-windows`)
 * Install the Java stuff on the WSL, not on the host machine.
 <img src="./wsl-plugins-for-java-vs-code-host.png" />
 

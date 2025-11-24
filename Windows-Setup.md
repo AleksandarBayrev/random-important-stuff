@@ -2,7 +2,8 @@
 * Install `Enterprise LTSC`/`Enterprise IoT LTSC` version of whatever Windows you want.
 * If using `Windows 11` install [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) and import the settings from `explorer-patcher` folder
 * Enable `File name extension` for all files
-* Disable `Game Bar`
+* Disable `Allow your controller to open Game Bar`
+* Press `Windows Button + G` to open `Game Bar` and enable `Performance metrics` if you need them
 * Disable `Memory Integrity` from `Core Isolation`
 * Disable all privacy related features, disable Feedback frequency
 * Disable `USB Selective suspending`

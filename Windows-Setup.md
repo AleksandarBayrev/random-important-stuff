@@ -52,8 +52,9 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Disable `Activity History`
 * Disable `Shader Caching` for `Steam`
 * Use `VKD3D Proton` and `DXVK`/`DXVK GPLAsync` for games that behave poorly under Windows (check if `DXVK` first and then use `DXVK GPLAsync` if the previous doesn't work better).
-* For AMD GPU builds - disable `Issue detection` in AMD Software Adrenalin.
+* For AMD GPU builds - disable `Issue detection` in AMD Software Adrenalin. Disable `Tracking` in `Performance -> Metrics` to avoid unnecessary SSD/HDD degradation.
 <img src="./amd-adrenalin-issue-detection.png" />
+<img src="./amd-gpu-settings-tracking.png" />
 
 ## If monitor sleep is not working - disalbe LAN power management from `Device Manager`
 <img src="./fix-for-monitor-sleep.png" />

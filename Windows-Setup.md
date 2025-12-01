@@ -66,6 +66,8 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 
 * For `QuickCPU`: import quick-cpu-ultimate-performance.pow profile (replace the built-in Windows one with it)
 
+* For `Rockstar Games Launcher` check `Rockstar-Games-Offline-Fix.md`
+
 ## To permanently disable `ms-gamingoverlay` popup in LTSC Windows 11:
 ### Find HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR and set the DWORD `AppCaptureEnabled` to `0`
 ### Find HKEY_CURRENT_USER\System\GameConfigStore and set the DWORD `GameDVR_Enabled` to `0`

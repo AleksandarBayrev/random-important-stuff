@@ -10,3 +10,5 @@
 * Copy VKD3D Proton to `SILENT HILL f/2\SHf/SHProto\Binaries\Win64\D3D12` for less stuttering
 # Red Dead Redemption 2
 * Check [RDR2-Fix-Stutter-And-VRAM-Leak.md](RDR2-Fix-Stutter-And-VRAM-Leak.md)
+# Empire Earth Gold
+* Edit `WONLobby.cfg` in `%GAME_LOCATION/Empire Earth` and `%GAME_LOCATION%/Empire Earth - The Art of Conquest`, edit the line CDKeyCheck - set it to `false`

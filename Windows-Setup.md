@@ -24,7 +24,7 @@ Select the `Prevent downloads of drivers from "Windows update" when "Windows" se
 * Install `Geek Uninstaller`
 * Install `Twinkle Tray` to control monitor brightness
 * Install `SSD Tools (ADATA/Samsung)`
-* Install `MSI Afterburner` for fan control (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
+* Install `MSI Afterburner` for fan control (check `MSI-Afterburner.md` file) (if possible (eg. on laptops it won't be)) and `Riva Tuner` (should be bundled with MSI Afterburner) to limit FPS
 * Install `Firefox` for browser.
 * Install `.NET Framework 3.5`, `Legacy Components`, `Media Features` from `Turn Windows features on or off`
 * Install `VMWare`, disable `Memory Integrity/Core Isolation` and run as administrator in cmd `bcdedit /set hypervisorlaunchtype off`, check `windows-11-fix-for-amd-rv-intel-virt.pdf` to fix VMWare errors with VMs that have enabled virtualization. (Mainly `Disable Turn On Virtualization Based Security.` and `bcdedit /set hypervisorlaunchtype off`, `Disable side channel mitigations for Hyper-V enabled hosts` per VM under `Virtual Machine Settings` -> `Options` -> `Advanced`, and disable `Memory Integrity/Core Isolation`) OR

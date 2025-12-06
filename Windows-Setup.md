@@ -1,6 +1,8 @@
 # Windows Setup
 * Install `Enterprise IoT`/`Enterprise IoT LTSC` version of whatever Windows you want. (use the non-LTSC if you want to have the latest updates).
 * If using `Windows 11` install [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) and import the settings from `explorer-patcher` folder
+* Use `Chris Titus Tech WinUtils` and do these tweaks
+<img src="./win11-ctt-tweakks.png" />
 * Enable `File name extension` for all files
 * Disable `Allow your controller to open Game Bar`
 * Press `Windows Button + G` to open `Game Bar` and enable `Performance metrics` if you need them

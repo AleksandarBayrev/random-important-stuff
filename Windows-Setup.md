@@ -1,5 +1,5 @@
 # Windows Setup
-* Install `Enterprise LTSC`/`Enterprise IoT LTSC` version of whatever Windows you want.
+* Install `Enterprise IoT`/`Enterprise IoT LTSC` version of whatever Windows you want. (use the non-LTSC if you want to have the latest updates).
 * If using `Windows 11` install [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) and import the settings from `explorer-patcher` folder
 * Enable `File name extension` for all files
 * Disable `Allow your controller to open Game Bar`

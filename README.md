@@ -104,3 +104,5 @@
 * Describes how to setup OpenVPN as unattended service (and how to stop it if needed).
 # Rockstar-Games-Offline-Fix.md
 * Fixes when Rockstar Launcher is stuck in offline mode.
+# RDR2-Fix-Crash.md
+* Potential fix for crash with ERR_GFX_STATE

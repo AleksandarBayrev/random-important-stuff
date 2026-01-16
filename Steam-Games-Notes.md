@@ -7,4 +7,4 @@
 # Fable - The Lost Chapters
 * Under Linux use the launch option: `PROTON_USE_WINED3D=1 %command%`
 # CS GO (legacy)
-* Under Linux use the launch option: `SDL_VIDEO_DRIVER=wayland RADV_PERFTEST=gpl %command% -steam -vulkan -high -novid -nojoy` and uncap the FPS of the game (`fps_max 0`) and limit FPS drops (`engine_no_focus_sleep 0`)
+* Under Linux use the launch option: `SDL_VIDEO_DRIVER=wayland RADV_PERFTEST=gpl %command% -steam -vulkan -high -novid -nojoy +fps_max 0 +engine_no_focus_sleep 0` and uncap the FPS of the game (`fps_max 0`) and limit FPS drops (`engine_no_focus_sleep 0`)

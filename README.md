@@ -106,3 +106,5 @@
 * Fixes when Rockstar Launcher is stuck in offline mode.
 # RDR2-Fix-Crash.md
 * Potential fix for crash with ERR_GFX_STATE
+# Microinvest-KVM-HowTo.md
+* Describes how to setup a KVM VM for working with Microinvest software.

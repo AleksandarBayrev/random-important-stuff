@@ -108,3 +108,5 @@
 * Potential fix for crash with ERR_GFX_STATE
 # Microinvest-KVM-HowTo.md
 * Describes how to setup a KVM VM for working with Microinvest software.
+# GTA-VC-NE-Linux-HowTO.md
+* Describes how to setup GTA VC NE under Linux.

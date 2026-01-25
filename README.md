@@ -110,3 +110,5 @@
 * Describes how to setup a KVM VM for working with Microinvest software.
 # GTA-VC-NE-Linux-HowTO.md
 * Describes how to setup GTA VC NE under Linux.
+# Lutris-Custom-Mesa.md
+* Describes how to use custom Mesa versions in Lutris.

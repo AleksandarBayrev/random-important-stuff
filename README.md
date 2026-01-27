@@ -112,3 +112,5 @@
 * Describes how to setup GTA VC NE under Linux.
 # Lutris-Custom-Mesa.md
 * Describes how to use custom Mesa versions in Lutris.
+# Lutris-NTSYNC.md
+* Describes how to setup Lutris to use NTSYNC.

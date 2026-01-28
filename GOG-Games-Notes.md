@@ -27,3 +27,6 @@
 
 # Vampire - The Masquerade Bloodlines - Unofficial Patch
 * Run the game with the `-window` launch argument, select resolution, remove the argument and start with the newly selected resolution
+
+# Cyberpunk 2077
+* In `Heroic Games Launcher` Advanced Options -> Select alternative EXE to run - and select the `Cyberpunk2077.exe` directly to bypass RED Launcher.

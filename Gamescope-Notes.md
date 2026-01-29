@@ -2,6 +2,10 @@
 * Use the `gamescope-runner` script that is in `general-linux-fixes` repository
 * Add `WINEDLLOVERRIDES="winedevice.exe=d"` to the launch options in Steam/environment variables in Heroic/Lutris
 
+# For Heroic Games Launcher you should do it like this:
+![alt text](heroic-gamescope.png)
+* `/home/aleksandar/.local/bin/gamescope-runner` is the wrapper command (full path to `gamescope-runner`) and the arguments should be passed like this: `-w 3840 -h 2160 -W 2560 -H 1440 -f --` (note the `--` at the end)
+
 # If you want to pass adaptive sync do it like this:
 * `--adaptive-sync -r 180`
 * Example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f --adaptive-sync -r 180 -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`

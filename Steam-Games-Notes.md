@@ -9,4 +9,4 @@
 # CS GO (legacy)
 * Under Linux use the launch option: `SDL_VIDEO_DRIVER=wayland RADV_PERFTEST=gpl %command% -steam -vulkan -high -novid -nojoy +exec csgo` and copy the `csgo.cfg` file to `CS2_GAME_LOCATION/csgo/cfg`
 # Forza Horizon 4
-* Make the game in windowed mode via the game options since I play it upscaled to 4K via these launch options in Steam: `WINEDLLOVERRIDES="winedevice.exe=d" gamescope -w 3840 -h 2160 -W 2560 -H 1440 -f -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`. If it was on fullscreen the game will be a black screen when you use `gamescope`
+* Make the game in windowed mode via the game options since I play it upscaled to 4K via these launch options in Steam: `WINEDLLOVERRIDES="winedevice.exe=d" gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`. If it was on fullscreen the game will be a black screen when you use `gamescope` (don't forget to use the `gamescope-runner` script)

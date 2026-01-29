@@ -1,5 +1,5 @@
 # If you want to use `gamescope` and `gamescope` or `gamescopereaper` processes do not quit after you leave the game:
-* Use the `gamescope-runner` script that is in `general-linux-fixes` repository
+* Use the `gamescope-runner` script that is in `general-linux-fixes` repository (and still check for phantom `gamescope` and `gamescopereaper` processes, since sometimes if the game crashes for example, or you force quit - these are not killed)
 * Example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f --expose-wayland --`
 * If you want to stretch the screen use the `-S stretch` switch: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -S stretch --expose-wayland --`
 * Add `WINEDLLOVERRIDES="winedevice.exe=d"` to the launch options in Steam/environment variables in Heroic/Lutris

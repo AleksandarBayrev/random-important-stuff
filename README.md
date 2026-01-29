@@ -114,3 +114,5 @@
 * Describes how to use custom Mesa versions in Lutris.
 # Lutris-NTSYNC.md
 * Describes how to setup Lutris to use NTSYNC.
+# Gamescope-Notes.md
+* Added some gamescope notes.

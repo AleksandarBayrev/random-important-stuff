@@ -13,3 +13,5 @@
 * Example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f --adaptive-sync -r 180 -S stretch --expose-wayland -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`
 
 # If some games have problems with the mouse append `--force-grab-cursor`
+
+# For `Steam` do not forget to add `%command%`, example: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f --expose-wayland -- %command%`

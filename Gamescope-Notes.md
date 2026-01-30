@@ -8,9 +8,11 @@
 ![alt text](heroic-gamescope.png)
 * `/home/aleksandar/.local/bin/gamescope-runner` is the wrapper command (full path to `gamescope-runner`) and the arguments should be passed like this: `-w 3840 -h 2160 -W 2560 -H 1440 -f -S stretch --expose-wayland --` (note the `--` at the end)
 
+# If you want to use `mangohud` install `mangoapp` as well and make a symbolic link to the already configured `mangohud`: `$HOME/.config/MangoHud/MangoHud.conf` to `$HOME/.config/MangoHud/mangoapp.conf` => `ln -s $HOME/.config/MangoHud/MangoHud.conf $HOME/.config/MangoHud/mangoapp.conf`
+
 # If you want to pass adaptive sync do it like this:
 * `--adaptive-sync -r YOUR_REFRESH_RATE`
-* Example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f --adaptive-sync -r 180 -S stretch --expose-wayland -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`
+* Example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f --adaptive-sync -r 180 -S stretch --expose-wayland --mangoapp -- mesa-custom-launcher 26.0.0-rc2 %command%`
 
 # If some games have problems with the mouse append `--force-grab-cursor`
 

@@ -15,7 +15,7 @@
 * Example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -S stretch  -r 180 --immediate-flips --adaptive-sync --expose-wayland --mangoapp -- mesa-custom-launcher 26.0.0-rc2 %command%`
 # IMPORTANT!!! Most of the time mangoapp doesn't work so you can skip the step above and use `mangohud` directly
 * If `--mangoapp` switch doesn't work run it from `mangohud`, example command: `gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -S stretch  -r 180 --immediate-flips --adaptive-sync --expose-wayland -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`
-* If the font is way too small, append `MANGOHUD_CONFIG="font_size=DESIRED_FONT_SIZE"` environment variable to adjust font size, example:`MANGOHUD_CONFIG="font_size=42" gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -S stretch  -r 180 --immediate-flips --adaptive-sync --expose-wayland -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`
+* If the font is way too small, append `MANGOHUD_CONFIG="read_cfg,font_size=DESIRED_FONT_SIZE"` environment variable to adjust font size, example:`MANGOHUD_CONFIG="read_cfg,font_size=42" gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -S stretch  -r 180 --immediate-flips --adaptive-sync --expose-wayland -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`
 
 # If you want to pass adaptive sync do it like this:
 * `--adaptive-sync -r YOUR_REFRESH_RATE`

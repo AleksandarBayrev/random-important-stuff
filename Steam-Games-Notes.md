@@ -12,3 +12,5 @@
 * Make the game in windowed mode via the game options since I play it upscaled to 4K via these launch options in Steam: `WINEDLLOVERRIDES="winedevice.exe=d" gamescope-runner -w 3840 -h 2160 -W 2560 -H 1440 -f -- mesa-custom-launcher 26.0.0-rc2 mangohud %command%`. If it was on fullscreen the game will be a black screen when you use `gamescope` (don't forget to use the `gamescope-runner` script)
 # DIRT 3
 * Limit the FPS to 120, under Linux via `DXVK_FRAME_RATE=120 %command%`
+# Need For Speed Rivals
+* To run the game in 60 FPS, add these launch parameters: `-GameTime.MaxSimFps 60 -GameTime.ForceSimRate 60+`

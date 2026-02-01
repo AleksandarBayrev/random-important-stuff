@@ -30,3 +30,6 @@
 
 # Cyberpunk 2077
 * In `Heroic Games Launcher` Advanced Options -> Select alternative EXE to run - and select the `Cyberpunk2077.exe` directly to bypass RED Launcher.
+
+# Tom Clancy's Ghost Recon
+* Use `gamescope` to prevent window flickering and proper 4K support on 2K monitors for example.

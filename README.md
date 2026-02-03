@@ -118,3 +118,5 @@
 * Added some gamescope notes.
 # Linux-Gaming-Notes.md
 * Useful tips for Linux.
+# Pirated-Games-Notes.md
+* Notes for pirated games.

@@ -120,3 +120,5 @@
 * Useful tips for Linux.
 # Pirated-Games-Notes.md
 * Notes for pirated games.
+# Lutris-Gamescope-HowTO.md
+* Describes how to use Lutris to run per-app instances with Gamescope.

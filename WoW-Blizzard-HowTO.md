@@ -1,2 +1,1 @@
-# Install [`Questie`](https://www.curseforge.com/wow/addons/questie) on older expansions to track quests.
-# Install [`TaretHealth`](https://www.curseforge.com/wow/addons/target-health) on older expansions to show target health.
+# Install [`Questie`](https://www.curseforge.com/wow/addons/questie) on older expansions (Vanilla or TBC, WoTLK) to track quests.

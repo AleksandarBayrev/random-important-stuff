@@ -1,2 +1,2 @@
-# Install [`Questie`](https://www.curseforge.com/wow/addons/questie) on older expansions (Vanilla or TBC, WoTLK) to track quests.
-# Install [`Leatrix Maps`](https://www.curseforge.com/wow/addons/leatrix-maps) on older expansions (Vanilla or TBC, WoTLK) to make the map show levels, etc.
+# Install [`Questie`](https://www.curseforge.com/wow/addons/questie) on older expansions (Vanilla or TBC, WoTLK, MoP) to track quests.
+# Install [`Leatrix Maps`](https://www.curseforge.com/wow/addons/leatrix-maps) on older expansions (Vanilla or TBC, WoTLK, MoP) to make the map show levels, etc.

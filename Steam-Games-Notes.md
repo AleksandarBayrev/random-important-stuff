@@ -15,4 +15,4 @@
 # Need For Speed Rivals
 * To run the game in 60 FPS, add these launch parameters: `-GameTime.MaxSimFps 60 -GameTime.ForceSimRate 60+`
 # Forza Horizon 6
-* Use these launch options: `VKD3D_CONFIG=no_upload_hvv PROTON_VKD3D_HEAP=1 DISABLE_XWAYLAND_BYPASS=1 taskset -c 0-11 mangohud %command%`
+* Use these launch options: `RADV_PERFTEST=gpl VKD3D_CONFIG=no_upload_hvv DISABLE_XWAYLAND_BYPASS=1 mangohud %command%`

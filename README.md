@@ -124,3 +124,5 @@
 * Describes how to use Lutris to run per-app instances with Gamescope.
 # WoW-Blizzard-HowTO.md
 * Describes how to setup WoW on Blizzard.
+# Proton-Optiscaler-HowTO.md
+* Describes how to use Optiscaler under Linux.

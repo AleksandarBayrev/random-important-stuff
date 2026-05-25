@@ -33,3 +33,6 @@
 
 # Tom Clancy's Ghost Recon
 * Use `gamescope` to prevent window flickering and proper 4K support on 2K monitors for example.
+
+# Silent Hill 2
+* Under Linux use the `-dx11` launch argument and `DXVK_FRAME_RATE=60` env var for limiting the FPS instead of the in-game limiter.

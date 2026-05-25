@@ -1,3 +1,5 @@
+# All of the stuff below is not relevant - DirectX 12 is fixed at least on Linux and no stutters are present there.
+
 The "VRAM leak" in Red Dead Redemption 2 (RDR2) is a known issue where the game's Video RAM usage gradually increases over time, which can lead to stuttering, performance drops, and eventually crashing (often with an "Out of Memory" error). Your screenshot shows a high **Dedicated GPU memory** usage (19.1/20.0 GB), indicating you are likely experiencing this issue or have very high graphical settings.
 
 Since this is often related to the game's engine or specific configurations, fixes usually involve workarounds and settings changes.

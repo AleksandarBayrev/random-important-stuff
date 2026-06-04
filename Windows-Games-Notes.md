@@ -12,3 +12,5 @@
 * Check [RDR2-Fix-Stutter-And-VRAM-Leak.md](RDR2-Fix-Stutter-And-VRAM-Leak.md)
 # Empire Earth Gold
 * Edit `WONLobby.cfg` in `%GAME_LOCATION/Empire Earth` and `%GAME_LOCATION%/Empire Earth - The Art of Conquest`, edit the line CDKeyCheck - set it to `false`
+# Warcraft III TFT Classic (via Battle.NET)
+* Open the wine configuration in Lutris/Bottles/whatever wrapper you use for the Battle.NET prefix, add `Warcraft III.exe` and set the OS to `Windows XP`

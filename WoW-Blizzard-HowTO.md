@@ -2,4 +2,4 @@
 # Install [`Leatrix Maps`](https://www.curseforge.com/wow/addons/leatrix-maps) on older expansions (Vanilla or TBC, WoTLK, MoP) to make the map show levels, etc.
 # Install [`Details! Damage Meter`](https://www.curseforge.com/wow/addons/details) on older expansions (Vanilla or TBC, WoTLK, MoP) to make showing the damage meter in dungeons/raids.
 # Install [`TomTom`](https://www.curseforge.com/wow/addons/tomtom) to help with navigation.
-# Install [`MobInfo2`](https://www.curseforge.com/wow/addons/mobinfo2) to show exact health instead of percentage and additional stuff for mobs.
+# Install [`Target Health Plus`](https://www.curseforge.com/wow/addons/target-health-plus) to show exact health instead of percentage (setup via Options -> Interface -> Status Text -> Numeric).

@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+JAVA_ATLAUNCHER_VERSION="26.0.1-tem"
+JAVA_ATLAUNCHER_EXECUTABLE="$HOME/.sdkman/candidates/java/$JAVA_ATLAUNCHER_VERSION/bin/java"
+$JAVA_ATLAUNCHER_EXECUTABLE --version
+$JAVA_ATLAUNCHER_EXECUTABLE -jar ./ATLauncher.jar

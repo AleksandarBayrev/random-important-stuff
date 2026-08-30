@@ -124,3 +124,5 @@
 * Describes how to use Optiscaler under Linux.
 # z890-uefi-setup
 * UEFI settings for the Gigabyte Z890 AORUS ELITE
+# start-atlauncher.sh
+* Shell script to launch ATLauncher with a custom Java executable path

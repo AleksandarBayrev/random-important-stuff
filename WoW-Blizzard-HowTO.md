@@ -4,3 +4,4 @@
 # Install [`TomTom`](https://www.curseforge.com/wow/addons/tomtom) to help with navigation.
 # Install [`Target Health Plus`](https://www.curseforge.com/wow/addons/target-health-plus) to show exact health instead of percentage (setup via Options -> Interface -> Status Text -> Numeric).
 # Install [`Quest Log XP`](https://www.curseforge.com/wow/addons/quest-log-xp) to show XP per quest.
+# Install [`Dialogue UI`](https://www.curseforge.com/wow/addons/dialogueui) for improved UI.

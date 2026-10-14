@@ -1,0 +1,1 @@
+# How to install mods: copy the folder (eg. `1000hp_all_trucks_pack_eco22_stock_sound` to `C:\Users\<your user>\Documents\American Truck Simulator\mods` or if under Linux `$STEAM_HOME/steamapps/compatdata/270880/pfx/drive_c/users/steamuser/Documents/American Truck Simulator/mod`) ($STEAM_HOME can be either a SteamLibrary or the default `$HOME/.steam` folder)

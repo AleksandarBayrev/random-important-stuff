@@ -1,0 +1,10 @@
+SiiNunit
+{
+mod_package : _nameless {
+    package_name: "1000HP 4500Nm All Trucks Engine Pack"
+    author: "Custom Engine Mod"
+    category[]: "tuning"
+    icon: "mod_icon.png"
+    description_file: "description.txt"
+}
+}

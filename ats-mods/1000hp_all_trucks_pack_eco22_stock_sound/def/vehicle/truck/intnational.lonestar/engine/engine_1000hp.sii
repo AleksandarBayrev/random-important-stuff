@@ -1,0 +1,64 @@
+SiiNunit
+{
+accessory_engine_data : engine_1000.intnational.lonestar.engine
+{
+    name: "Cummins Heavy Duty 1000 HP"
+    price: 50000
+    unlock: 0
+    info[]: "1,000 @@hp@@ (745 kW)"
+    info[]: "3,319 @@lb_ft@@ (4,500 Nm)"
+    info[]: "1,000-1,500 @@rpm@@"
+
+    # Engine performance specs
+    torque: 4500
+
+    # Torque multipliers relative to 4500 Nm; tuned for 1000-2000 RPM.
+    # Keeps approximate peak output around 1000 HP rather than exceeding it.
+    torque_curve[]: (0, 0)
+    torque_curve[]: (400, 0.40)
+    torque_curve[]: (600, 0.68)
+    torque_curve[]: (800, 0.90)
+    torque_curve[]: (1000, 1.00)
+    torque_curve[]: (1200, 1.00)
+    torque_curve[]: (1400, 1.00)
+    torque_curve[]: (1500, 0.995)
+    torque_curve[]: (1700, 0.89)
+    torque_curve[]: (1800, 0.84)
+    torque_curve[]: (2000, 0.79)
+    torque_curve[]: (2200, 0.71)
+    torque_curve[]: (2400, 0.63)
+    torque_curve[]: (2600, 0.48)
+    torque_curve[]: (2800, 0)
+    volume: 16.0
+
+    # RPM limits and transmission shift points
+    rpm_idle: 600
+    rpm_limit: 2800
+    rpm_limit_neutral: 2500
+    rpm_range_low_gear: (1000, 1700)
+    rpm_range_high_gear: (1200, 1900)
+    rpm_range_power: (1400, 2100)
+
+    # Engine braking
+    engine_brake: 3.0
+    engine_brake_downshift: 1
+    engine_brake_positions: 3
+
+    # Fuel consumption coefficient calibrated from observed 11-12 US MPG.
+    # 0.22 is an estimated setting to target ~18 US MPG in top gear.
+    # Actual MPG depends on gearing, speed, cargo and game settings.
+    consumption_coef: 0.22
+
+    # SCS stock Kenworth W900 engine audio (reuses game FMOD banks).
+    sounds: 5
+    sounds[]: "engine|/def/vehicle/truck/_1000hp_sound/engine.soundref"
+    sounds[]: "exhaust|/def/vehicle/truck/_1000hp_sound/exhaust.soundref"
+    sounds[]: "start_bad|/def/vehicle/truck/_1000hp_sound/start_bad.soundref"
+    sounds[]: "turbo|/def/vehicle/truck/_1000hp_sound/turbo.soundref"
+    sounds[]: "remote|/def/vehicle/truck/_1000hp_sound/remote.soundref"
+
+    # Consumption
+    adblue_consumption: 0.05
+    no_adblue_power_limit: 1.0
+}
+}

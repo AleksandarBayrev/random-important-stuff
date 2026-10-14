@@ -1,0 +1,6 @@
+1000 HP / 4500 Nm tuning pack for 18 ATS truck definitions.
+Stock Kenworth W900 engine, exhaust, turbo, and remote sound references added.
+Economy coefficient 0.22 (18 MPG is a calibration target, not guaranteed).
+Enhanced acceleration response from 1,000 to 2,000 RPM.
+Uses sound banks from your game installation; no external audio required.
+Disable older editions of the pack before enabling this one.

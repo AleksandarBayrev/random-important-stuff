@@ -126,3 +126,5 @@
 * UEFI settings for the Gigabyte Z890 AORUS ELITE
 # start-atlauncher.sh
 * Shell script to launch ATLauncher with a custom Java executable path
+# ats-mods
+* Mods for American Truck Simulator

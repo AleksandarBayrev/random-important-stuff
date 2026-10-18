@@ -128,3 +128,5 @@
 * Shell script to launch ATLauncher with a custom Java executable path
 # ats-mods
 * Mods for American Truck Simulator
+# DXVK-Old-Games-Fixes.md
+* Fixes for old games not utilizing DXVK.

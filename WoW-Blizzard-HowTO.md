@@ -1,3 +1,4 @@
+# Import `wow-classic-ui-layout.txt` via the `Options -> Edit Mode`
 # Install [`Questie`](https://www.curseforge.com/wow/addons/questie) on older expansions (Vanilla or TBC, WoTLK, MoP) to track quests. Add [`QuestieDB`](https://github.com/Questie/QuestieDB/releases/) for the newer expansions (especially `WoW Forever`).
 # Install [`Leatrix Maps`](https://www.curseforge.com/wow/addons/leatrix-maps) on older expansions (Vanilla or TBC, WoTLK, MoP) to make the map show levels, etc.
 # Install [`Leatrix Plus`](https://www.curseforge.com/wow/addons/leatrix-plus) for additional QoL features.

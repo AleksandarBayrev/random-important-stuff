@@ -130,3 +130,5 @@
 * Mods for American Truck Simulator
 # DXVK-Old-Games-Fixes.md
 * Fixes for old games not utilizing DXVK.
+# wow-classic-ui-layout.txt
+* Describes already setup WoW layout

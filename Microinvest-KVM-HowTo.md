@@ -82,3 +82,14 @@
   </interface>
 </devices>
 ```
+
+### Add a drive serial number to hide the fact that it's a VM, example:
+```xml
+  <disk type="file" device="disk">
+      <driver name="qemu" type="qcow2"/>
+      <source file="/home/minka/VM/MINKA-LAPTOP-WIN11.qcow2"/>
+      <target dev="sda" bus="sata"/> <!-- Important part !-->
+      <serial>WDS200T2B0B-00YS00</serial> <!-- Important part !-->
+      <address type="drive" controller="0" bus="0" target="0" unit="0"/>
+  </disk>
+```
